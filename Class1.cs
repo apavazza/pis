@@ -10,5 +10,6 @@ namespace PIS_VJ1
     {
         //komentar
         //novi komentar
+        //lokalni komentar
     }
 }
