@@ -9,5 +9,6 @@ namespace PIS_VJ1
     internal class Class1
     {
         //komentar
+        //novi komentar
     }
 }
